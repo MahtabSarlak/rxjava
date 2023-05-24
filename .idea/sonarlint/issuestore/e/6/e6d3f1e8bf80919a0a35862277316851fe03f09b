@@ -1,0 +1,13 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ôıìîşÿÿÿÿ8‰ÈœÆÄ.
+a
+java:S1128"?Remove this unused import 'io.reactivex.schedulers.Schedulers'.(š‰¢úÿÿÿÿ8ôÜ§ÆÄ.
+`
+java:S1128">Remove this unused import 'io.reactivex.BackpressureStrategy'.(Ëƒéøùÿÿÿÿ8ôÜ§ÆÄ.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(È­î8îé¨ÆÄ.
+Z
+java:S1128"=Remove this unused import 'io.reactivex.FlowableOnSubscribe'.(®Ğ—ø8Ù±ÆÄ.
+T
+java:S1128"2Remove this unused import 'io.reactivex.Flowable'.(©ˆ”çıÿÿÿÿ8Ù±ÆÄ.
+[
+java:S1128"9Remove this unused import 'io.reactivex.FlowableEmitter'.(„ÀÍìÿÿÿÿÿ8Ù±ÆÄ.

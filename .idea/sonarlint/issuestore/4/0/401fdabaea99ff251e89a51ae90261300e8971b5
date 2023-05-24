@@ -1,0 +1,33 @@
+
+£
+java:S1186@"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€ñ”İùÿÿÿÿ8öĞµÃÄ.
+£
+java:S1186p"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€ñ”İùÿÿÿÿ8£Æ¬ÂÄ.
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(§ìî×8É±ßÁÄ.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(¿¨ÚÙùÿÿÿÿ8öŞÁÄ.
+
+java:S1186^"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×İŠÎ8˜Ì‹ÂÄ.
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(™´ë8ª»àÁÄ.
+o
+java:S1602J"SRemove useless curly braces around statement and then remove useless return keyword(ë–îP8†¨§ÃÄ.
+£
+java:S1186Y"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€ñ”İùÿÿÿÿ8˜Ì‹ÂÄ.
+U	java:S106l"9Replace this use of System.out or System.err by a logger.(Ñâ¥Û8£Æ¬ÂÄ.
+E	java:S108x")Either remove or fill this block of code.(”ı¾8Ş®ÛÆÄ.
+U	java:S106}"9Replace this use of System.out or System.err by a logger.(õÎ¸’8º¸ÆÄ.
+U	java:S106F"9Replace this use of System.out or System.err by a logger.(™´ë8öĞµÃÄ.
+
+java:S11866"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÕÌ”Ù8öĞµÃÄ.
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(Ûäƒòşÿÿÿÿ8öĞµÃÄ.
+]
+java:S1128"@Remove this unused import 'io.reactivex.observers.SafeObserver'.(œò†ç8öĞµÃÄ.
+T	java:S106U"9Replace this use of System.out or System.err by a logger.(¡Ïí8¤»ŒÂÄ.
+o
+java:S1602b"SRemove useless curly braces around statement and then remove useless return keyword(àªˆI8£Æ¬ÂÄ.
+
+java:S1186f"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÕÌ”Ù8£Æ¬ÂÄ.
+U	java:S106{"9Replace this use of System.out or System.err by a logger.(úì¸ä8Ş®ÛÆÄ.
+
+java:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(úÑ¯¤8…ÒÜÁÄ.
+a
+java:S1128"?Remove this unused import 'io.reactivex.schedulers.Schedulers'.(š‰¢úÿÿÿÿ8°ûİÆÄ.
